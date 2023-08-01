@@ -6,5 +6,5 @@ cp -r ~/.config/mpd/mpd.conf .config/mpd
 cp -r ~/.config/ncmpcpp/config .config/ncmpcpp
 cp -r ~/.config/ncmpcpp/bindings .config/ncmpcpp
 cp -r ~/.config/zathura/zathurarc .config/zathura
-cp -r ~/.config/.emacs.d/config.org .emacs.d
-cp -r ~/.config/.emacs.d/init.el .emacs.d
+cp -r ~/.emacs.d/config.org .emacs.d
+cp -r ~/.emacs.d/init.el .emacs.d
